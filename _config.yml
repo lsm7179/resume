@@ -50,10 +50,10 @@ additional_links:
 about_profile_image: images/lsm.jpg
 about_content: | # this will include new lines to allow paragraphs
   더 좋은 코드를 위해 고민하는 Java & Spring 기반의 소프트엔지니어 이승민입니다.
-  솔루션 SI/SM을 업무했으며 주로 Core기능 로직 개선하고 배포하는 업무를 했습니다.
+  솔루션 SI/SM을 업무했으며 주로 비즈니스 기능을 개선하고 배포하는 업무를 했습니다.
 
-  저는 새로운 것을 배우는것과 코드품질을 높이는 것을 좋아하여 Node와 React-Native로 사이드 프로젝트를 만들었고 최근엔 Vue를 사용하여 개발 중입니다.
-  최근엔 <mark>코드 리뷰</mark>와 <mark>테스트 코드</mark>에 관심을 가져 최근 프로젝트에도 적용하고 있습니다.
+  저는 새로운 배움과 코드품질을 높이는것을 좋아하며 Node와 React-Native로 사이드 프로젝트를 만들었고 최근엔 Vue를 사용하여 개발 중입니다.
+  <mark>코드 리뷰</mark>와 <mark>테스트 코드</mark>에 관심을 가져 현재 프로젝트에도 적용하고 있습니다.
 
   감사합니다.
 
@@ -98,15 +98,27 @@ content:
         title: 신한항업
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: 공공사업부 웹 개발
+        sub_title: 공공사업부 / 주임
         caption: 2020.05 - 현재
         quote: >
           측량업관리시스템 , 측량업종합관리시스템 개발 및 유지보수
         description: |
-          - Rock climbing
-          - Gaming
-          - Knitting
+          - 오픈레이어스를 활용한 맵 스크립트 api 사용 및 활용
+          - 경력 산정 기능 에러 개선
+          - 배치시스템 개선으로 오류율 감소
           Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
+        - layout: left
+                title: 한국문헌정보기술
+                sub_title: 개발팀 / 주임
+                caption: 2020.05 - 현재
+                quote: >
+                  감어인 솔루션 개발, 유지보수 및 운영 관리
+                description: |
+                  - 솔루션에 서비스페이지를 추가하고 기능 개선 하여 감어인M 솔루션 확립
+                  - 기존 오라클DB에서 솔루션에 큐브리드DB 적용
+                  - 솔루션 유지보수 기능 오류 발생율 감소
+
 
   - title: 학력 및 교육 # Title for the section
     layout: list # Type of content section (list/text)
@@ -114,7 +126,7 @@ content:
       - layout: left
         title: 동양미래대학
         caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        sub_title: 반도체전자과
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
