@@ -102,14 +102,14 @@ content:
   - title: 학력 및 교육 # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-          title: KG아이티
-          caption: 2016.10 - 2017.02
-          sub_title: 교육이수내역
-          quote: >
-            웹 프로그래머 개발과정 수료
-          description: |
-            Java Javascript Spring Mybatics Oracle 등등을 사용하여 웹프로그래머 개발 과정을 이수하였습니다.
+#      - layout: left
+#          title: KG아이티
+#          caption: 2016.10 - 2017.02
+#          sub_title: 교육이수내역
+#          quote: >
+#            웹 프로그래머 개발과정 수료
+#          description: |
+#            Java Javascript Spring Mybatics Oracle 등등을 사용하여 웹프로그래머 개발 과정을 이수하였습니다.
       - layout: left
         title: 동양미래대학
         caption: 2011.03 - 2014.02
