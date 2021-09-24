@@ -103,20 +103,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-          title: KG아이티
-          sub_title: 교육이수내역
-          caption: 2016.10 - 2017.02
-          quote: >
-            웹 프로그래머 개발과정 수료
-          description: |
-            Java Javascript Spring Mybatics Oracle 등등을 사용하여 웹프로그래머 개발 과정을 이수하였습니다.
-#      - layout: left
-#        title: 동양미래대학
-#        caption: 2011.03 - 2014.02
-#        # sub_title: 반도체전자과
-#        quote: >
-#          반도체전자과 전문학사 졸업
-#        # description: | # this will include new lines to allow paragraphs
+        title: KG아이티
+        sub_title: 교육이수내역
+        caption: 2016.10 - 2017.02
+        quote: >
+          웹 프로그래머 개발과정 수료
+        description: |
+          Java Javascript Spring Mybatics Oracle 등등을 사용하여 웹프로그래머 개발 과정을 이수하였습니다.
+
+      - layout: left
+        title: 동양미래대학
+        caption: 2011.03 - 2014.02
+        # sub_title: 반도체전자과
+        quote: >
+          반도체전자과 전문학사 졸업
+        # description: | # this will include new lines to allow paragraphs
 
   - title: 그 외 활동
     layout: text
