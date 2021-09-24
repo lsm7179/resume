@@ -72,7 +72,7 @@ content:
 #        quote: >
 #          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
 #        description: | # this will include new lines to allow paragraphs
-#          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
   - title: 경력사항 # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -108,8 +108,9 @@ content:
           sub_title: 교육이수내역
           quote: >
             웹 프로그래머 개발과정 수료
-          description: | # this will include new lines to allow paragraphs
+          description: |
             Java Javascript Spring Mybatics Oracle 등등을 사용하여 웹프로그래머 개발 과정을 이수하였습니다.
+
       - layout: left
         title: 동양미래대학
         caption: 2011.03 - 2014.02
