@@ -124,9 +124,9 @@ content:
       - layout: left
         title: 개인 블로그
         quote: >
-          [방구석개발자 블로그](https://roomconerdeveloper.tistory.com/)
+          공부했던것, 업무중에 정리한 내용을 기록한 블로그 입니다.
         description: |
-          공부했던것 업무중에 정리한 내용을 담은 블로그 입니다.
+          [방구석개발자 블로그](https://roomconerdeveloper.tistory.com/)
 
 #  - title: 그 외 활동
 #    layout: text
