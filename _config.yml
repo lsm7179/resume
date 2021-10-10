@@ -120,6 +120,16 @@ content:
         quote: >
           반도체전자과 전문학사 졸업
         # description: | # this will include new lines to allow paragraphs
+  - title: 사이드 프로젝트
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 샤워 필터 모니터링
+        quote: >
+          사용 기술 : Node, React-Native, MongoDB, Docker
+        description: |
+          샤워필터DB를 가져와서 얼마나 남았는지 가시적으로 표현해주는 웹앱입니다.
+          [샤워 필터 모니터링](https://roomconerdeveloper.tistory.com/47?category=862240)
   - title: 기타 활동
     layout: list # Type of content section (list/text)
     content:
