@@ -129,7 +129,9 @@ content:
           사용 기술 : Node, React-Native, MongoDB, Docker
         description: |
           샤워필터를 사용시간에 따라 얼마나 남았는지 표현해주는 웹앱
+
           DB설계, 개발, 서버 설치를 맡아서 진행하였습니다.
+
           [샤워 필터 모니터링](https://roomconerdeveloper.tistory.com/47?category=862240)
   - title: 기타 활동
     layout: list # Type of content section (list/text)
