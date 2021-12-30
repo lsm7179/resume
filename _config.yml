@@ -138,11 +138,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-          title: AWS EC2 + Jenkins + Git hook을 이용한 자동 배포 구축
-          quote: >
-            AWS EC2 + Jenkins + Git hook을 이용한 자동 배포 구축 해보았습니다.
-          description: |
-            [자동배포후기](https://roomconerdeveloper.tistory.com/26)
+        title: AWS EC2 + Jenkins + Git hook을 이용한 자동 배포 구축
+        quote: >
+          AWS EC2 + Jenkins + Git hook을 이용한 자동 배포 구축 해보았습니다.
+        description: |
+          [자동배포후기](https://roomconerdeveloper.tistory.com/26)
       - layout: left
         title: 개인 블로그
         quote: >
