@@ -82,7 +82,7 @@ content:
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: 공공사업부 / 주임
-        caption: 2020.05 - 현재
+        caption: 2020.05 - 2021.11
         quote: >
           측량업관리시스템, 측량업종합관리시스템, 도시계획시스템 개발 및 유지보수
         description: |
@@ -138,7 +138,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: AWS EC2 + Jenkins + Git hook을 이용한 자동 배포 구축
+        title: 자동 배포 구축
         quote: >
           AWS EC2 + Jenkins + Git hook을 이용한 자동 배포 구축 해보았습니다.
         description: |
