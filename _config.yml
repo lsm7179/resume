@@ -86,10 +86,20 @@ content:
         quote: >
           측량업관리시스템, 측량업종합관리시스템, 도시계획시스템 개발 및 유지보수
         description: |
-          - 테스트 코드, 코드 리뷰 도입
+          - 테스트 코드, 코드 리뷰 도입으로 개발 환경 개선
           - 오픈레이어스를 활용한 맵 스크립트 api 사용
           - 경력 산정 기능 개발 및 개선
           - 배치 시스템 유지보수
+      - company:
+        parent: 1
+        job_title: 배치 스케줄 강제종료 기능 개발
+        dates:
+        quote: >
+          자바 스케줄러 구현 및 강제종료 구현
+        description: |
+          - ThreadPoolTaskScheduler를 이용하여 자바 스케줄러 구현 및 강제종료 구현
+          - interrupt Exception을 사용하여 강제 종료
+          - [자바 스케줄러 구현 및 강제종료 구현](https://roomconerdeveloper.tistory.com/116)
       - layout: left
         title: 한국문헌정보기술
         sub_title: 개발팀 / 주임
@@ -164,6 +174,7 @@ content:
 
 # Footer
 footer_show_references: true
+references_title:
 # references_title: References on request (Override references text)
 
 # Build settings
