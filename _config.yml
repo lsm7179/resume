@@ -54,7 +54,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   저는 끊임없는 배움과 코드품질을 높이는것을 중요하게 생각합니다.
   개발경험을 위해 Node와 React-Native로 사이드 프로젝트를 만들었습니다.
-  <mark>코드 리뷰</mark>와 <mark>테스트 코드</mark>에 관심을 가져 현재 프로젝트에도 적용하고 있습니다.
+  <mark>코드 리뷰</mark>와 <mark>테스트 코드</mark>에 관심을 가져 프로젝트에도 적용해본 경험이 있습니다.
+
+  배움을 위해서 우아한테크캠프Pro3기 과정을 이수 하였고 열심히 한 결과 <mark>우수수료생</mark>으로 선발 되었습니다.
 
   감사합니다.
 
@@ -86,10 +88,10 @@ content:
         quote: >
           측량업관리시스템, 측량업종합관리시스템, 도시계획시스템 개발 및 유지보수
         description: |
-          - 테스트 코드, 코드 리뷰 도입으로 개발 환경 개선
-          - 오픈레이어스를 활용한 맵 스크립트 api 사용
-          - 경력 산정 기능 개발 및 개선
-          - 배치 시스템 유지보수
+          - [테스트 코드](https://roomconerdeveloper.tistory.com/124?category=846816),
+            [코드 리뷰](https://roomconerdeveloper.tistory.com/123?category=840724) 도입하여 개발 환경 개선
+          - 오픈레이어스를 활용한 맵 스크립트 api 사용 및 활용,통계 엑셀 다운로드 기능 개발
+          - 기술자등급 산정하여 알려주는 기능 개발 :자격증 유무 해당전공과 유무 프로젝트 기간에 따라서 산정되는 코어 알고리즘
       - company:
         parent: 1
         job_title: 배치 스케줄 강제종료 기능 개발
@@ -108,13 +110,30 @@ content:
           감어인 솔루션 개발, 유지보수 및 운영 관리
         description: |
           - 솔루션에 서비스페이지를 추가하고 기능 개선 하여 감어인M 솔루션 확립
-          - 기존 시스템에서 감어인M 시스템으로 데이터 마이그레이션
-          - 기존 오라클DB에서 솔루션에 큐브리드DB 마이그레이션
-          - 솔루션 유지보수 기능 오류 발생율 감소
+          - 레거시 시스템에서 감어인M 시스템으로 고도화 개발
+          - 오라클DB에서 큐브리드DB로 데이터 마이그레이션
+          - 솔루션 유지보수
 
   - title: 학력 및 교육 # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: 우아한테크캠프Pro3기
+        # sub_title:
+        caption: 2021.11 - 2021.12
+        quote: >
+          우수수료생으로 수료.
+        description: |
+          [교육후기](https://roomconerdeveloper.tistory.com/128)
+
+          우아한테크캠프 Pro 과정은 아래 경험을 얻었습니다.
+
+          클린코드 개발,JPA 기반 웹 개발, 단위, 인수 테스트를 이용한 TDD ATDD 경험,
+
+          레거시 코드를 안정적으로 리팩터링, 시스템 아키텍처를 설계 및 운영,
+
+          웹 전반에 대해 최적화할 대상을 살펴보고, 서버를 튜닝하는 경험
+
       - layout: left
         title: KG아이티
         sub_title: 교육이수내역
