@@ -10,10 +10,9 @@
 #### https://stackoverflow.com/questions/54973341/git-bash-jekyll-site-could-not-be-built
 #### https://www.youtube.com/watch?v=1bQqkyvH5ps
 #### https://junho85.pe.kr/1850
+#### m1 mac 이용시 : https://unluckyjung.github.io/develop-setting/2021/01/20/Mac-Jekyll-Setting/
 ~~~
 bundle install
 
 bundle exec jekyll serve
-
-
 ~~~
