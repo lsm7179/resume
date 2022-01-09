@@ -190,6 +190,7 @@ content:
     content:
       - layout: left
         title: 샤워 필터 모니터링
+        caption: 2020.07 - 2020.12
         quote: >
           사용 기술 : Node, React-Native, MongoDB, Docker
         description: |
