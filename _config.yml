@@ -90,11 +90,9 @@ content:
         description: |
           - [테스트 코드](https://roomconerdeveloper.tistory.com/124?category=846816),
             [코드 리뷰](https://roomconerdeveloper.tistory.com/123?category=840724) 도입하여 개발 환경 개선
-          - 오픈레이어스를 활용한 맵 스크립트 api 사용 및 활용,통계 엑셀 다운로드 기능 개발
-          - 기술자등급 산정하여 알려주는 기능 개발 :자격증 유무 해당전공과 유무 프로젝트 기간에 따라서 산정되는 코어 알고리즘
-      - company:
-        parent: 1
-        job_title: 배치 스케줄 강제종료 기능 개발
+          - 측량업 시스템 개발, 프로젝트 일정 관리, 배치 서비스 유지보수
+      - job_title: 배치 스케줄 강제종료 기능 개발
+
         dates:
         quote: >
           자바 스케줄러 구현 및 강제종료 구현
@@ -102,6 +100,37 @@ content:
           - ThreadPoolTaskScheduler를 이용하여 자바 스케줄러 구현 및 강제종료 구현
           - interrupt Exception을 사용하여 강제 종료
           - [자바 스케줄러 구현 및 강제종료 구현](https://roomconerdeveloper.tistory.com/116)
+      - sub_title: k-Geo플랫폼 측량업 관리 시스템
+        caption: 2021.05 - 2021.11
+        quote: >
+          측량업, 측량업체 등록 관리 시스템
+        description: |
+          - 테스트코드, 코드 리뷰 도입
+          - Rest API 개발
+          - 레포팅툴 api 연동
+          - 요구사항 분석 및 설계
+      - sub_title: KILP 시스템 개발
+        caption: 2021.01 - 2021.04
+        quote: >
+          도시 계획 관리 시스템
+        description: |
+          - 용역성과 CRUD 메뉴 개발
+          - 엑셀 일괄 업로드 개발
+          - 통계 조회, 엑셀 다운로드 개발
+          - 오픈레이어스 맵 스크립트 api 연동
+      - sub_title: 측량업정보 종합관리체계 시스템 구축 4차 및 유지관리
+        caption: 2020.05 - 2020.12
+        quote: >
+          공간정보기술자가 경력신고, 증명서 발급, 우편물 확인 하는 시스템으로
+          공간기술자 등급및 분야를 법령에 맞게 산정 하여 관리 할 수 있습니다.
+        description: |
+          - 공간정보기술자 관리 설계, 개발
+          - 신규 기능 추가, 기존 기능 버그 수정
+            - 경력 신고 관리
+            - 등급 산정 기능 개발
+            - 측량업기능사 등급 산정 기능 개선(한달에 1건 오류 -> 0건으로 개선함)
+            - 기능별 중복 코드 리팩터링을 통해 구조 개선 및 쿼리 튜닝
+          - 배치서비스 유지보수
       - layout: left
         title: 한국문헌정보기술
         sub_title: 개발팀 / 주임
@@ -109,9 +138,13 @@ content:
         quote: >
           감어인 솔루션 개발, 유지보수 및 운영 관리
         description: |
-          - 솔루션에 서비스페이지를 추가하고 기능 개선 하여 감어인M 솔루션 확립
+          - 감어인M 솔루션 서비스페이지 기능 개발
           - 레거시 시스템에서 감어인M 시스템으로 고도화 개발
           - 오라클DB에서 큐브리드DB로 데이터 마이그레이션
+          - 바코드 프린터 api 연동
+          - 엑셀 다운로드 개발
+          - 검색엔진 api 연동 및 개발
+          - 슬로우 쿼리를 찾아 인덱스 생성, 조인관계 개선 5초 -> 0.2초로 단축
           - 솔루션 유지보수
 
   - title: 학력 및 교육 # Title for the section
